@@ -1,0 +1,120 @@
+{
+    "flights": [
+        {
+            "icao24": "0d10ac",
+            "callsign": "VIV1129",
+            "origin_country": "Mexico",
+            "lat": 19.4442,
+            "lon": -99.063,
+            "altitude": 0,
+            "velocity": 6,
+            "heading": 278,
+            "on_ground": true
+        },
+        {
+            "icao24": "0d111d",
+            "callsign": "XCLKW",
+            "origin_country": "Mexico",
+            "lat": 19.4005,
+            "lon": -99.2113,
+            "altitude": 2454,
+            "velocity": 36,
+            "heading": 314,
+            "on_ground": false
+        },
+        {
+            "icao24": "ab9278",
+            "callsign": "AMX829",
+            "origin_country": "United States",
+            "lat": 19.4367,
+            "lon": -99.0685,
+            "altitude": 2233,
+            "velocity": 87,
+            "heading": 59,
+            "on_ground": false
+        },
+        {
+            "icao24": "e80462",
+            "callsign": "LPE2472",
+            "origin_country": "Chile",
+            "lat": 19.4198,
+            "lon": -99.0987,
+            "altitude": 2347,
+            "velocity": 84,
+            "heading": 59,
+            "on_ground": false
+        },
+        {
+            "icao24": "0d083f",
+            "callsign": "SLI2971",
+            "origin_country": "Mexico",
+            "lat": 19.4376,
+            "lon": -99.067,
+            "altitude": 0,
+            "velocity": 14,
+            "heading": 59,
+            "on_ground": true
+        },
+        {
+            "icao24": "0d080e",
+            "callsign": "SLI1539",
+            "origin_country": "Mexico",
+            "lat": 19.3752,
+            "lon": -99.1795,
+            "altitude": 2751,
+            "velocity": 94,
+            "heading": 68,
+            "on_ground": false
+        },
+        {
+            "icao24": "0d0a22",
+            "callsign": "ANX2241",
+            "origin_country": "Mexico",
+            "lat": 19.3196,
+            "lon": -99.1264,
+            "altitude": 2316,
+            "velocity": 25,
+            "heading": 10,
+            "on_ground": false
+        },
+        {
+            "icao24": "0d0e21",
+            "callsign": "AMX527",
+            "origin_country": "Mexico",
+            "lat": 19.447,
+            "lon": -99.234,
+            "altitude": 3437,
+            "velocity": 115,
+            "heading": 178,
+            "on_ground": false
+        },
+        {
+            "icao24": "4d2393",
+            "callsign": "VIV1212",
+            "origin_country": "Malta",
+            "lat": 19.4661,
+            "lon": -99.0203,
+            "altitude": 2804,
+            "velocity": 105,
+            "heading": 57,
+            "on_ground": false
+        },
+        {
+            "icao24": "0d0db8",
+            "callsign": "AMX655",
+            "origin_country": "Mexico",
+            "lat": 19.5757,
+            "lon": -99.273,
+            "altitude": 4976,
+            "velocity": 140,
+            "heading": 142,
+            "on_ground": false
+        }
+    ],
+    "status": {
+        "api_status": "Activo",
+        "last_update": "2025-11-07 13:31:23",
+        "alert": "",
+        "total_flights": 10
+    }
+}

@@ -1,0 +1,106 @@
+.login{
+    width: 50%;
+    background-color: rgba(81, 83, 199, 0.01);
+    margin: 150px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .2),
+    inset 10px 10px 5px rgba(250, 250, 250, .4);
+    backdrop-filter: blur(10px);
+}
+
+.login h2{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    color: white;
+    padding: 20px;
+    text-shadow: 2px 2px 2px rgba(250, 250, 250, 1);
+}
+
+.login input{
+    display: block;
+    margin: 10px auto;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: inset 7px 7px 7px rgba(0, 0, 0, .4);
+}
+
+.fondo{
+    background-image: url("./../media/img/fondologin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login .alertas{
+    display: block;
+    width: 90%;
+    background-color: rgba(250, 250, 250, 1);
+    padding: 10px;
+    margin: auto;
+    border-radius: 50px;
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    padding: 20px; 
+    background-color: #f4f7f6; 
+}
+
+.container { 
+    max-width: 1400px; 
+    margin: auto; 
+    background-color: white; 
+    padding: 25px; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+}
+        
+h2 { 
+    color: #007bff; 
+    border-bottom: 2px solid #007bff; 
+    padding-bottom: 10px; 
+    margin-top: 0; 
+}
+
+.status-box { 
+    background-color: #ffe0b2; 
+    padding: 15px; 
+    border-radius: 5px; 
+    margin-bottom: 20px; 
+    border-left: 5px solid orange; 
+}
+
+.status-error { 
+    background-color: #f8d7da; 
+    color: #721c24; 
+    border-color: #f5c6cb; 
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 20px; 
+    font-size: 0.9em; 
+}
+
+th, td { 
+    border: 1px solid #dee2e6; 
+    padding: 10px; 
+    text-align: left; 
+}
+
+th { 
+    background-color: #007bff; 
+    color: white; 
+}
+
+tr:nth-child(even) { 
+    background-color: #f8f9fa; 
+}
